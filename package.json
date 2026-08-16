@@ -1,0 +1,12 @@
+{
+  "name": "devsecops-lab5-cicd",
+  "version": "1.0.0",
+  "description": "DevSecOps Lab 5 CI/CD Pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
